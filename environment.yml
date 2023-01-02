@@ -1,0 +1,9 @@
+name: railwaybrakecalculation
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - matplotlib
+  - seaborn
+  - pandas
+  
