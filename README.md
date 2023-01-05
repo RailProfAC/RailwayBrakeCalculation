@@ -12,8 +12,16 @@ This notebook is based on EN 14531-1 and implements an simplified example follow
 
 The time step approach follows EN 14531-2 and adds an electrodynamical brake instead of the tread brakes in the average value example.
 
+![Vehicle image](xMU2.png)
+
+## Licensing
+
+All code is available under MIT License.
+
 ## How to use
 
 Both notebooks are available on Binder:
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/RailProfAC/RailwayBrakeCalculation/HEAD)
+
+The full repository is available on GitHub: [https://github.com/RailProfAC/RailwayBrakeCalculation](https://github.com/RailProfAC/RailwayBrakeCalculation).
