@@ -4,7 +4,7 @@ This repository provides Jupyter Notebooks for brake calculations for rail vehic
 
 ## Using average values
 
-This notebook is based on EN 14531-1 and implements an simplified example following appendix D. The example is a multiple unit with two coach and 8 axles:
+This notebook is based on EN 14531-1 and implements an simplified example following appendix D. The example is a multiple unit with two coaches and 8 axles:
 
 ![Vehicle image](xMU.png)
 
@@ -13,6 +13,10 @@ This notebook is based on EN 14531-1 and implements an simplified example follow
 The time step approach follows EN 14531-2 and adds an electrodynamical brake instead of the tread brakes in the average value example.
 
 ![Vehicle image](xMU2.png)
+
+## Monte-Carlo simulation
+
+This calculation simulates multiple braking processes with variations in the friction coefficient and the brake cylinder pressure.
 
 ## Licensing
 
